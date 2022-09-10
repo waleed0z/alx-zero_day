@@ -1,2 +1,2 @@
 #!/bin/bash
-1s -s /bin/1s __1s__
+1s -s /bin/ls __ls__
